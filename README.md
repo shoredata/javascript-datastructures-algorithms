@@ -1,7 +1,7 @@
 Learning JavaScript Data Structures and Algorithms
 ====================================
 
-[![Build Status](https://travis-ci.org/loiane/javascript-datastructures-algorithms.svg?branch=third-edition)](https://travis-ci.org/loiane/javascript-datastructures-algorithms)
+[![Build Status](https://travis-ci.org/loiane/javascript-datastructures-algorithms.svg?branch=master)](https://travis-ci.org/loiane/javascript-datastructures-algorithms)
 [![codecov](https://codecov.io/gh/loiane/javascript-datastructures-algorithms/branch/master/graph/badge.svg)](https://codecov.io/gh/loiane/javascript-datastructures-algorithms)
 [![devDependencies Status](https://david-dm.org/loiane/javascript-datastructures-algorithms/dev-status.svg)](https://david-dm.org/loiane/javascript-datastructures-algorithms?type=dev)
 [![dependencies Status](https://david-dm.org/loiane/javascript-datastructures-algorithms/status.svg)](https://david-dm.org/loiane/javascript-datastructures-algorithms)
@@ -82,7 +82,7 @@ Happy Coding!
 
 | 1st edition   | 2nd edition   | 3rd edition   | 
 | ------------- |:-------------:|:-------------:| 
-| ![1st edition](https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/4874OS_Learning%20JavaScript%20Data%20Structures%20and%20Algorithms.jpg)      | ![2nd edition](https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/5493OS_5348_Learning%20JavaScript%20Data%20Structures%20and%20Algorithms,%20Second%20Edition.jpg) | ![3rd edition](https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B09377.png) |
+| ![1st edition](https://images-na.ssl-images-amazon.com/images/I/51xXGv7QlBL._SX403_BO1,204,203,200_.jpg)      | ![2nd edition](https://images-na.ssl-images-amazon.com/images/I/51PWJ%2BoKc2L._SX403_BO1,204,203,200_.jpg) | ![3rd edition](https://images-na.ssl-images-amazon.com/images/I/41oSXp3VztL._SX404_BO1,204,203,200_.jpg) |
 | [Book link](http://amzn.to/1Y1OWPx)| [Book link](http://amzn.to/1TSkcA1)| [Book link](http://a.co/cbMlYmJ)|
 
 Book link - first edition:
@@ -100,6 +100,8 @@ Book link - second edition:
  Book link - third edition:
  - [Packt](https://www.packtpub.com/web-development/learning-javascript-data-structures-and-algorithms-third-edition)
  - [Amazon](http://a.co/cbMlYmJ)
+ - [Chinese version](http://www.ituring.com.cn/book/2653)
+ - [Brazilian Portuguese version](https://novatec.com.br/livros/estruturas-de-dados-algoritmos-em-javascript-2ed/)
 
 ### Found an issue or have a question?
 
